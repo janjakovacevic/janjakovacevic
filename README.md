@@ -22,6 +22,8 @@
 ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![maven](https://img.shields.io/badge/Apache%20Maven-%23C71A36.svg?&style=for-the-badge&logo=apache-maven&logoColor=white)
+![html5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
 ![azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge)
 ![word](https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white&style=for-the-badge)
