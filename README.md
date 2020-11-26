@@ -47,5 +47,4 @@
 
 ![janjakovacevic github stats](https://github-readme-stats.vercel.app/api?username=janjakovacevic&theme=slateorange&show_icons=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janjakovacevic&theme=slateorange&layout=compact)](https://github.com/janjakovacevic/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janjakovacevic&theme=slateorange&layout=compact)
