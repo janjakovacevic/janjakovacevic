@@ -37,8 +37,10 @@
 ![jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
 ![django](https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 
-![git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![intellij](https://img.shields.io/badge/intelliJ%20IDEA-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
+![git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+![trello](https://img.shields.io/badge/trello-%230079BF.svg?&style=for-the-badge&logo=trello&logoColor=white)
 
 ![azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge)
 ![word](https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white&style=for-the-badge)
@@ -47,8 +49,6 @@
 ![onenote](https://img.shields.io/badge/Microsoft%20OneNote-7719AA?logo=microsoft-onenote&logoColor=white&style=for-the-badge)
 ![teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge)
 ![onedrive](https://img.shields.io/badge/Microsoft%20OneDrive-0078D4?logo=microsoft-onedrive&logoColor=white&style=for-the-badge)
-
-![trello](https://img.shields.io/badge/trello-%230079BF.svg?&style=for-the-badge&logo=trello&logoColor=white)
 
 ![janjakovacevic github stats](https://github-readme-stats.vercel.app/api?username=janjakovacevic&theme=slateorange&show_icons=true&hide_border=true)
 
