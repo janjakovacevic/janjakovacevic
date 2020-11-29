@@ -50,6 +50,6 @@
 ![teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge)
 ![onedrive](https://img.shields.io/badge/Microsoft%20OneDrive-0078D4?logo=microsoft-onedrive&logoColor=white&style=for-the-badge)
 
-![janjakovacevic github stats](https://github-readme-stats.vercel.app/api?username=janjakovacevic&theme=slateorange&show_icons=true&hide_border=true)
+![janjakovacevic github stats](https://github-readme-stats.vercel.app/api?username=janjakovacevic&theme=graywhite&show_icons=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janjakovacevic&theme=slateorange&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janjakovacevic&theme=graywhite&layout=compact)
